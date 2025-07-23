@@ -1,4 +1,4 @@
-# 💊 Aplikasi Apotek Online – UAS Pemrograman Web
+# 💊 Aplikasi Apotek Online –Uas KeamanAN iNFORMASI
 
 Aplikasi ini dibangun menggunakan Laravel 12 dan Filament v3 untuk memudahkan pembeli dalam membeli obat secara online, serta memudahkan apoteker dan manajer dalam mengelola data melalui dashboard admin.
 
